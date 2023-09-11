@@ -1,0 +1,58 @@
+#a{
+	border: 2px solid blue;
+	color: blue;
+}
+#b{
+	margin: 30px;
+}
+#c{
+	margin: 30px;
+}
+i{
+	font-size: 50px;
+	color: blue;
+}
+#d{
+	color: blue;
+	font-size: 20px;
+}
+span{
+	color: black;
+	font-family: bold;
+}
+#e{
+	border: 2px solid black;
+	color: black;
+}
+#f{
+	box-shadow: 2px 3px 4px solid blue;
+}
+#g{
+	background-color: blue;
+	color: white;
+}
+#btn{
+	border: 2px solid white;
+	border-radius: 5px ;
+	color:white;
+}
+#color{
+	color: blue;
+	margin: 20px;
+	font-family: bold;
+}
+.img{
+	height: 50px;
+	width: 50px;
+	font-size: 20px;
+}
+#btn1{
+	position: relative;
+	font-size: 20px;
+}
+#back{
+	background-color: skyblue;
+}
+#size{
+	font-size: 30px;
+}
